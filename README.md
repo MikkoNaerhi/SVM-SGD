@@ -1,7 +1,7 @@
 # SVM-SGD
 
 ## Overview
-This project implements a soft-margin Support Vector Machine model used for binary classification optimized with Stochastic Gradient Descent (SGD) from scratch. It serves as an educational tool for those interested in understanding the underlying mathematics and optimization techniques behind SVMs.
+This project implements a soft-margin Support Vector Machine (SVM) model used for binary classification optimized with Stochastic Gradient Descent (SGD) from scratch. It serves as an educational tool for those interested in understanding the underlying mathematics and optimization techniques behind SVMs.
 
 ## Features
 - Soft-margin Support Vector Machine implementation from scratch
